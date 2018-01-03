@@ -1,3 +1,4 @@
+
 $(document).ready(() => {
 
 });
@@ -86,8 +87,3 @@ $('#categorias').on('change', function(){
     }
   }
 })
-
-
-
-
-
